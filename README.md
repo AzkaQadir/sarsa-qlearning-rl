@@ -68,3 +68,10 @@ Box2D LunarLander Environment
 Replace tabular methods with deep Q-networks (DQN)
 Implement reward shaping for faster convergence
 Experiment with adaptive exploration and learning rates
+
+Sure! Here’s how you can format the Disclaimer section in your README:
+
+📌 Disclaimer:
+This project was developed as part of a personal learning journey in reinforcement learning.
+As such, it may include experimental implementations, non-optimized code, or areas for improvement.
+Feedback, suggestions, and contributions are always welcome!
