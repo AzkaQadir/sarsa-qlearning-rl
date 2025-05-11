@@ -31,8 +31,7 @@ Video Rendering: Records trained agent episodes as MP4 videos.
 
 🌙 LunarLander-v3 Overview:
 State Space: 8 continuous variables (position, velocity, angle, leg contact)
-
-#Action Space: 4 discrete actions:
+Action Space: 4 discrete actions:
 Goal: Land the lunar module safely between flags with zero velocity
 Run:  python LunarLander_Agent.py
 Example Outputs
